@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WhatsApp</string>
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+    <!-- Change the following strings as required -->
+    <string name="back4app_app_id">DjFWW8RWiuEVzTj8octtHdfGMW0PuR53cNIwUAKu</string>
+    <string name="back4app_client_key">SLy7vyCoEDTgIZXq1HsixV4kagKuhHnzLDp0XdZM</string>
+</resources>
